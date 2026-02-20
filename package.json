@@ -1,6 +1,6 @@
 {
   "name": "@kors/use-resizable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React hook for resizable panels with localStorage persistence and CSS variable binding",
   "type": "module",
   "main": "./dist/index.js",
